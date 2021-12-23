@@ -1,4 +1,4 @@
-# Computer-Programming
+# Computer Programming
 
 ### Building Java Programs, 5th edition 
 This repository contains my implementation for all problems of Building Java Programs, 5th edition on the Practice-It, a web application to help you practice solving Java programming problems online, provided by the University of Washington, originally developed by Marty Stepp.
