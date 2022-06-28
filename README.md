@@ -50,3 +50,7 @@ This repository contains my implementation for all problems of University of Was
 
 To practice these problems, please visit https://practiceit.cs.washington.edu/problem/list
 
+### Computer Programming (M1522.000600)
+This repository contains my implementation of problems of the course Computer Programming (M1522.000600) of Seoul National University.
+
+
