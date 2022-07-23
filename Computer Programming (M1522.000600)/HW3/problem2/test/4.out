@@ -1,0 +1,29 @@
+------ Authentication ------
+id : root
+passwd : pivot@eee
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command : search centavo
+id: 282, created at: 1988/03/28 00:00:00, title: astounding cavity cerussite her then
+id: 397, created at: 2016/03/31 00:00:00, title: corundom cudgels asphyxiating he dubitousness
+id: 371, created at: 1981/05/14 00:00:00, title: am baby-wise despumate anatomist breeched
+id: 368, created at: 1977/07/21 00:00:00, title: balanidae why everyone decretive corral
+id: 356, created at: 1988/08/05 00:00:00, title: are my blastopore a is
+id: 347, created at: 2010/06/15 00:00:00, title: balderdash begird why the arguementum
+id: 309, created at: 2008/03/26 00:00:00, title: boltonia my are derris canard
+id: 234, created at: 1995/03/22 00:00:00, title: deo ester he admired antiinflammatory
+id: 181, created at: 1972/12/18 00:00:00, title: delphinidae enets camisade why determinedly
+id: 169, created at: 2001/10/08 00:00:00, title: centavo you you carpellate chives
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command :

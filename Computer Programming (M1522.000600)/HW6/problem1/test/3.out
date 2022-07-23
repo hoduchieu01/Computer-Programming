@@ -1,0 +1,17 @@
+CLIENT_UI: HyunA is signed up.
+CLIENT_UI: Kichang is signed up.
+CLIENT_UI: Hyunwoo is signed up.
+CLIENT_UI: HyunA is logged in.
+CLIENT_UI: Purchase completed. Price: 20000.
+CLIENT_UI: Purchase completed. Price: 20000.
+CLIENT_UI: Purchase completed. Price: 20000.
+CLIENT_UI: Purchase completed. Price: 50000.
+CLIENT_UI: HyunA is logged out.
+CLIENT_UI: Hyunwoo is logged in.
+CLIENT_UI: Purchase completed. Price: 20000.
+CLIENT_UI: Purchase completed. Price: 3000.
+CLIENT_UI: Recommended products: [(tissue, 3000), (chair, 20000)]
+CLIENT_UI: Hyunwoo is logged out.
+CLIENT_UI: Youngki is logged in.
+CLIENT_UI: Recommended products: [(desk, 45000), (tissue, 2700), (chair, 18000)]
+CLIENT_UI: Youngki is logged out.

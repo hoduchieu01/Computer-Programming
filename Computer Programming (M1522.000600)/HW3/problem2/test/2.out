@@ -1,0 +1,27 @@
+------ Authentication ------
+id : root
+passwd : pivot@eee
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command : post
+-----------------------------------
+New Post
+* Title : my name is
+* Content :
+> root and
+> Nice to meet you!
+>
+-----------------------------------
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command :

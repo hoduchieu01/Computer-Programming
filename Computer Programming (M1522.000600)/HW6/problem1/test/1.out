@@ -1,0 +1,6 @@
+ADMIN_UI: tissue is added to the database.
+ADMIN_UI: chair is added to the database.
+ADMIN_UI: desk is added to the database.
+ADMIN_UI: Products: [(tissue, 2000), (chair, 20000), (desk, 50000)]
+ADMIN_UI: tissue is modified from the database.
+ADMIN_UI: Products: [(tissue, 3000), (chair, 20000), (desk, 50000)]

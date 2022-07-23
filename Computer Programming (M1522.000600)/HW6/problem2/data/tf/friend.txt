@@ -1,0 +1,4 @@
+admin
+mongo
+pytor
+redis

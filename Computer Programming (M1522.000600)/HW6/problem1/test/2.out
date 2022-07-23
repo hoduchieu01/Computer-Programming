@@ -1,0 +1,16 @@
+CLIENT_UI: Youngki is signed up.
+CLIENT_UI: Doil is signed up.
+CLIENT_UI: Invalid username or password.
+CLIENT_UI: Youngki is logged in.
+CLIENT_UI: tissue is added to the cart.
+CLIENT_UI: chair is added to the cart.
+CLIENT_UI: desk is added to the cart.
+CLIENT_UI: Cart: [(tissue, 2700), (chair, 18000), (desk, 45000)]
+CLIENT_UI: Cart purchase completed. Total price: 65700.
+CLIENT_UI: Please logout first.
+CLIENT_UI: Youngki is logged out.
+CLIENT_UI: Please login first.
+CLIENT_UI: Doil is logged in.
+CLIENT_UI: Purchase completed. Price: 20000.
+CLIENT_UI: Doil is logged out.
+CLIENT_UI: There is no logged-in user.
