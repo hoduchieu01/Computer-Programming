@@ -6,12 +6,12 @@ This repository contains my implementation of problems of the course Computer Pr
 
 | Homework        | Problems         | Descriptions
 | -----------     | -----------      | -----------
-| Homework 1      | 10 Problems      | 10 simple problems to take the first step with Java progamming language
-| Homework 2      | 2 Problems       | Develop a secure mobile banking service that support financial transactions like deposit, withdrawal, and transfer with secure transactions and develop a simple free-market economy and demonstrate the equilibrium state
-| Homework 3      | 2 Problems       | Implementing features for Movie Application (Searching, Rating, Recommendation) and SNS (Authenticate, Post a User Article, Recommend Friend's Posts, Search Posts)
-| Homework 4      | 2 Problems       | Develop an auto-grading system and develop a course registration system with various features: searching course information, placing a bid, confirming bids
-| Homework 5      | 2 Problems       | Problemset 1 covers simple C++ basic exercise consists of palindrome string, hamming distance, merge arrays, pascal's triangle, school cafeteria, while we need to implement Wi-Fi Signal Decoder in problemset 2 with various features consists of printing complex value, reading and organizing CSI values, decoding CSI values, extracting useful information from CSI, and estimating breathing interval
-| Homework 6      | 2 Problems       | In this problemset, we need to implement Shopping Application with Interface for Admins, Interface for Users, and Product Recommendation. On the other hand, we need to implement SNS Application in C++
+| Homework 1      | 10       | 10 simple problems to take the first step with Java programming language
+| Homework 2      | 2        | Develop a secure mobile banking service that supports financial transactions like deposit, withdrawal, and transfer with secure transactions and develop a simple free-market economy and demonstrate the equilibrium state
+| Homework 3      | 2        | Implementing features for Movie Application (Searching, Rating, Recommendation) and SNS (Authenticate, Post a User Article, Recommend Friend's Posts, Search Posts)
+| Homework 4      | 2        | Develop an auto-grading system and develop a course registration system with various features: searching course information, placing a bid, confirming bids
+| Homework 5      | 2        | Problem set 1 covers simple C++ basic exercises consists of palindrome string, hamming distance, merge arrays, pascal's triangle, and school cafeteria, while we need to implement Wi-Fi Signal Decoder in problem set 2 with various features consisting of printing complex values, reading and organizing CSI values, decoding CSI values, extracting useful information from CSI, and estimating breathing interval
+| Homework 6      | 2        | In this problem set, we need to implement a Shopping Application with Interface for Admins, an Interface for Users, and Product Recommendations. On the other hand, we need to implement SNS Applications in C++
 
 ### Building Java Programs, 5th edition 
 This repository contains my implementation for all problems of Building Java Programs, 5th edition on the Practice-It, a web application to help you practice solving Java programming problems online, provided by the University of Washington, originally developed by Marty Stepp.
