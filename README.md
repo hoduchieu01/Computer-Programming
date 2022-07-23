@@ -1,7 +1,7 @@
 # Computer Programming
 
 ### Computer Programming (M1522.000600)
-This repository contains my implementation of problems of the course Computer Programming (M1522.000600) of Seoul National University. In this course, students learn Object-Oriented programming methodologies and skills using Java and C++. Students first learn the fundamentals of Java and C++ programming languages, and then they lean by practice how to design and develop high-quality Object-Oriented software that correctly solves real-world problems in a sound and valid way.
+This repository contains my implementation of problems of the course Computer Programming (M1522.000600) from the Department of Computer Science and Engineering, College of Engineering, Seoul National University. In this course, students learn Object-Oriented programming methodologies and skills using Java and C++. Students first learn the fundamentals of Java and C++ programming languages, and then they lean by practice how to design and develop high-quality Object-Oriented software that correctly solves real-world problems in a sound and valid way.
 
 ### Building Java Programs, 5th edition 
 This repository contains my implementation for all problems of Building Java Programs, 5th edition on the Practice-It, a web application to help you practice solving Java programming problems online, provided by the University of Washington, originally developed by Marty Stepp.
